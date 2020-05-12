@@ -1,0 +1,23 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvi003/Trekking-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvi003/Trekking-Website/issues"
+  },
+  "homepage": "https://github.com/tanvi003/Trekking-Website#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
